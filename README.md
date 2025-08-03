@@ -6,6 +6,6 @@ I am a student at the Central Institute of Technology, Kokrajhar(https://cit.ac.
 Skills Learning:
 I'm Learning HTML, CSS, and JavaScript
 Contact:
-Reach me at: jwngma@example.com
+Reach me at: u23cse1043@cit.ac.in
 Visit my website
 [Visit CIT Kokrajhar](https://cit.ac.in/)
